@@ -12,7 +12,10 @@
 ![](https://jyblog.cn/wp-content/uploads/2024/04/20240428161819499-QQ%E6%88%AA%E5%9B%BE20240428161759.jpg?v=1714292299)
 
 ## 下载：
+下载地址：
 https://github.com/juanyi-me/GithubSpeed/releases/tag/v1.0
+
 确保在打开软件前已经安装了.net 8.0 框架
+
 框架地址：
 https://dotnet.microsoft.com/zh-cn/download/dotnet/thank-you/runtime-8.0.4-windows-x86-installer
